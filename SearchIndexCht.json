@@ -1,0 +1,148 @@
+{
+	"name" : "",
+	"synchroLevel" : 0,
+	"elements": {
+		"鐵甲": {
+			"小紅帽": {
+				"name_code": 5101,
+				"id": 447001,
+				"priority": "black"
+			},
+			"麥斯威爾": {
+				"name_code": 5001,
+				"id": 110201,
+				"priority": "blue"
+			},
+			"白雪公主": {
+				"name_code": 5012,
+				"id": 422001,
+				"priority": "yellow"
+			},
+			"拉普拉斯": {
+				"name_code": 1010,
+				"id": 110001,
+				"priority": "yellow"
+			}
+		},
+		"燃燒": {
+			"愛麗絲": {
+				"name_code": 5004,
+				"id": 319101,
+				"priority": "black"
+			},
+			"拉毗：小紅帽": {
+				"name_code": 5129,
+				"id": 201601,
+				"priority": "black"
+			},
+			"神罰": {
+				"name_code": 5044,
+				"id": 426001,
+				"priority": "blue"
+			},
+			"明日香": {
+				"name_code": 5118,
+				"id": 583001,
+				"priority": "yellow"
+			},
+			"零": {
+				"name_code": 5119,
+				"id": 583101,
+				"priority": "yellow"
+			}
+		},
+		"水冷": {
+			"海倫": {
+				"name_code": 5066,
+				"id": 235201,
+				"priority": "black"
+			},
+			"布蕾德": {
+				"name_code": 5135,
+				"id": 352001,
+				"priority": "blue"
+			},
+			"魯德米拉：冬日之主": {
+				"name_code": 5103,
+				"id": 319401,
+				"priority": "blue"
+			},
+			"坎西：逃生女王": {
+				"name_code": 5121,
+				"id": 140301,
+				"priority": "blue"
+			},
+			"毒蛇": {
+				"name_code": 1022,
+				"id": 311201,
+				"priority": "blue"
+			}
+		},
+		"風壓": {
+			"紅蓮：暗影": {
+				"name_code": 5105,
+				"id": 422501,
+				"priority": "black"
+			},
+			"明日香：WILLE": {
+				"name_code": 5133,
+				"id": 583501,
+				"priority": "black"
+			},
+			"零（暫稱）": {
+				"name_code": 5132,
+				"id": 583401,
+				"priority": "yellow"
+			}
+		},
+		"電擊": {
+			"灰姑娘": {
+				"name_code": 5124,
+				"id": 451101,
+				"priority": "black"
+			},
+			"阿尼斯：閃耀夏日": {
+				"name_code": 5097,
+				"id": 301501,
+				"priority": "black"
+			},
+			"梅登：黑玫瑰": {
+				"name_code": 5127,
+				"id": 218301,
+				"priority": "black"
+			}
+		},
+		"輔助": {
+			"皇冠": {
+				"name_code": 5065,
+				"id": 433001,
+				"priority": "black"
+			},
+			"格拉維": {
+				"name_code": 5125,
+				"id": 451401,
+				"priority": "black"
+			},
+			"真理": {
+				"name_code": 5120,
+				"id": 583201,
+				"priority": "black"
+			},
+			"露姬": {
+				"name_code": 5049,
+				"id": 327201,
+				"priority": "black"
+			},
+			"馬斯特：浪漫的女僕": {
+				"name_code": 5130,
+				"id": 235401,
+				"priority": "yellow"
+			},
+			"安克：天真的女僕": {
+				"name_code": 5131,
+				"id": 235501,
+				"priority": "yellow"
+			}
+		}
+	}
+}
